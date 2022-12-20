@@ -9,7 +9,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone https://github.com/gocardless/sample-django-app.git
-$ cd Django-CRUD-Project
+$ cd Django-CRUD-Project/crudproject1
 ```
 
 Create a virtual environment to install dependencies in and activate it:

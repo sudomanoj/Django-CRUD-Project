@@ -9,7 +9,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone https://github.com/gocardless/sample-django-app.git
-$ cd Django-CRUD-Project/crudproject1
+$ cd Django-CRUD-Project/
 $ pip3 install -r requirements. txt
 ```
 

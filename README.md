@@ -8,7 +8,7 @@ Django Code to perform Create Read and Delete operation
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/gocardless/sample-django-app.git
+$ git clone https://github.com/onlymanoj/Django-CRUD-Project.git
 $ cd Django-CRUD-Project/
 $ pip3 install -r requirements. txt
 ```

@@ -19,7 +19,7 @@
     <table class="table table-hover">
         <thead>
           <tr>
-            <th scope="col">ID</th>
+            <th scope="col">SN</th>
             <th scope="col">Name</th>
             <th scope="col">Email</th>
             <th scope="col">Password</th>
@@ -29,7 +29,7 @@
         <tbody>
             {% for st in stu %}
           <tr>
-            <th scope="row">{{st.id}}</th>
+            <th scope="row">{{forloop.counter}}</th>
             <td>{{st.name}}</td>
             <td>{{st.email}}</td>
             <td>{{st.password}}</td>
